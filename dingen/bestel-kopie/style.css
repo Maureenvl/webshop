@@ -1,0 +1,255 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+*:focus {
+  outline: none;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#topBar {
+  background-color: #0090e3;
+  width: 100%;
+  height: 57px;
+}
+
+#coolBlue {
+  width: 92px;
+  margin-left: 20px;
+  margin-top: -58px;
+}
+
+.logoText {
+  padding: 8px;
+  font-size: 30px;
+  color: white;
+  margin-left: 4px;
+  margin-top: -70px;
+  width: 80px;
+  height: 80px;
+}
+
+#p{
+  color: #0090e3;
+  padding: 0px 3.7em;
+}
+
+#bedankt{
+  color: #0090e3;
+  padding: 0px 2.4em;
+}
+
+#info{
+  color: #1549b7;
+  padding: 0px 3em;
+}
+
+#userInfo {
+  color: #1549b7;
+  padding: 0px 1.8em;
+}
+
+#saveUserInfo {
+  color: #1549b7;
+  padding: 0px 2.4em;
+  font-size: 32px;
+}
+
+h2 {
+  color: #30a1f1;
+  font-weight: 400;
+  padding: 0px 3.2em;
+}
+
+h4 {
+  font-size: 24px;
+  color: #30a1f1;
+  font-weight: 400;
+  padding: 0px 3.2em;
+}
+
+.dot {
+  color: #ff6900;
+}
+
+#land {
+  color: #85a5bf;
+}
+
+#darker {
+  color: #1778c5;
+  font-weight: bold;
+}
+
+#landPlek {
+  margin: 0px -66px;
+}
+
+.array a {
+  margin: 0px 350px;
+  color: #929292;
+}
+
+.array p {
+  float: left;
+  margin-right: 25px;
+  text-align: right;
+}
+
+.array {
+  margin-top: 13px;
+}
+
+form p {
+  width: 324px;
+}
+
+#insertion {
+  width: 60px;
+}
+
+#postalCode {
+  width: 60px;
+}
+
+#houseNumber {
+  width: 40px;
+}
+
+#houseLetter {
+  width: 40px;
+}
+
+#email {
+  width: 300px;
+}
+
+#color {
+  width: 160px;
+}
+
+#greyBar {
+  background-color: rgb(194, 194, 194);
+  width: 800px;
+  height: 60px;
+  margin: 30px 80px;
+}
+
+#submit {
+  width: 130px;
+  height: 50px;
+  background-color: rgb(0, 189, 0);
+  float: right;
+  color: white;
+  font-size: 24px;
+  margin: 5px 5px;
+}
+
+#payPal {
+  width: 100px;
+}
+
+#iDeal {
+  width: 45px;
+}
+
+#masterCard {
+  width: 80px;
+}
+
+#visa {
+  width: 85px;
+}
+
+#postNl {
+  width: 50px;
+}
+
+#thuisWinkel {
+  width: 80px;
+}
+
+#logos {
+  text-align: center;
+  padding: 20px;
+}
+
+.blueDot {
+  width: 15px;
+}
+
+.first-half {
+  float: left;
+  width: 50%;
+}
+.second-half {
+  float: right;
+  width: 25%;
+}
+
+.blue {
+  border: 1px solid black;
+  background-color: rgb(63, 142, 221, 0.8);
+  backface-visibility: 0.5;
+}
+
+#footer {
+  margin-top: 300px;
+  width: 100%;
+  height: 150px;
+  background: #0090e3;
+}
+
+#footer a {
+  display: flex;
+  color: white;
+  font-size: 20px;
+  padding: 5px 0px;
+}
+
+#homeIcon {
+  float: left;
+  width: 30px;
+}
+
+#infoIcon {
+  float: left;
+  width: 30px;
+}
+
+#contactIcon {
+  float: left;
+  width: 30px;
+}
+
+#payPal {
+  width: 50px;
+  margin-left: 43%;
+}
+
+#iDeal {
+  width: 25px;
+}
+
+#masterCard {
+  width: 40px;
+}
+
+#visa {
+  width: 55px;
+}
+
+#postNl {
+  width: 30px;
+}
+
+#copyRight {
+  text-align: center;
+}
