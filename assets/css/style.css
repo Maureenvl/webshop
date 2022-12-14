@@ -204,7 +204,7 @@ body {
   .shop-card {
     margin: 10px;
     width: 250px;
-    height: 270px;
+    height: 320px;
     background: #f5f5f5;
     box-shadow: 0 10px 20px rgba(0, 0, 0, .3);
     border-radius: 5px;
@@ -212,6 +212,8 @@ body {
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
   }
+
+
   
   .shop-card .title {
     font-weight: 900;
@@ -235,6 +237,15 @@ body {
   .product img {
     width: 60%;
   }
+
+  .product2 img {
+    width:200px;
+  }
+
+  .product3 img {
+    width:190px;
+    
+  }
   
   .cta {
     height: 50px;
@@ -254,7 +265,7 @@ body {
     font-size: 13px;
     font-weight: 900;
     text-transform: uppercase;
-    color: #28406b;
+    color: #6f6c9d;
     padding: 12px 18px;
     cursor: pointer;
     transition: all 300ms;
@@ -262,7 +273,7 @@ body {
     border: none;
     background: none;
     outline: none;
-    border: 1px solid #28406b;
+    border: 1px solid #89a5da;
     border-radius: 20px;
   }
   
