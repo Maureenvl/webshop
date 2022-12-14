@@ -302,3 +302,76 @@ body {
   .active {
     display: block;
   }
+/* footer */
+
+  footer {
+    height: 22rem;
+   background-color: #3d61a1;
+   font-family: 'Open Sans', sans-serif;
+  }
+  
+  #contactg {
+    color: #cdc7c7;
+    float: left;
+    height: 17rem;
+    width: 25%;
+    padding: 2%;
+    margin-left: 4%;
+    /* background: rgb(151, 255, 191); */
+  }
+  #contactg h2{
+    color: #fafafa;
+  }
+  
+  #direct {
+    float: left;
+    width: 40%;
+    height: 16rem;
+    padding: 2%;
+    padding-left: 5%;
+    /* background: rgb(176, 26, 51); */
+    color: #fafafa;
+  }
+  
+  #direct a {
+    color: #d2cdcd;
+    text-decoration: none;
+  }
+  
+  #direct img {
+    width: 50%;
+    float: right;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  #directleft{
+    float: left;
+  }
+  
+  #website {
+    float: right;
+    /* background: #6ba368; */
+    width: 20%;
+    height: 10rem;
+    padding: 2%;
+    margin-right: 4%;
+    color: #fafafa;
+  
+  }
+  
+  #website a {
+    color: rgb(217, 211, 211);
+    text-decoration: none;
+  }
+  
+  #credits{
+    color: #fff;
+    background: #312830;
+    text-align: center;
+  }
+
+  #footer img{
+  width: 200px;
+  }
+  
